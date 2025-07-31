@@ -1,4 +1,3 @@
-# Recipe for Guacamole
 Serves 4
 
 - 3 avocados, ripe
